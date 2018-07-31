@@ -1,1 +1,1 @@
-# A-Three-Tier-Application-on-the-Cloud
+# A Three Tier Application on the Cloud
