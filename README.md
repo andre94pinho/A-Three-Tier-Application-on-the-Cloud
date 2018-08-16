@@ -2,11 +2,11 @@
 
 
 ### Visão geral
-![ScreenShot](https://github.com/andrempinho/A-Three-Tier-Application-on-the-Cloud/tree/master/Imagem/Um.png)
+![alt tag](https://github.com/andrempinho/A-Three-Tier-Application-on-the-Cloud/blob/master/Imagem/Um.png)
 
 
 ### Screenshot
-![alt tag](https://github.com/andrempinho/A-Three-Tier-Application-on-the-Cloud/tree/master/Imagem/Screenshot.png)
+![alt tag](https://github.com/andrempinho/A-Three-Tier-Application-on-the-Cloud/blob/master/Imagem/Screenshot.png)
 
 
 ### Tecnologias
