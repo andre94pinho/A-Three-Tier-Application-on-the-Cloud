@@ -21,4 +21,4 @@
 
 
 ### Relatório
-* [pdf](https://github.com/andrempinho/A-Three-Tier-Application-on-the-Cloud/tree/master/Relatório.pdf)
+* [Pdf](https://github.com/andrempinho/A-Three-Tier-Application-on-the-Cloud/tree/master/Relatório.pdf)
