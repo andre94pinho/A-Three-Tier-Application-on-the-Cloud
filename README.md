@@ -2,7 +2,7 @@
 
 
 ### Visão geral
-![alt tag](https://github.com/andrempinho/A-Three-Tier-Application-on-the-Cloud/tree/master/Imagem/Um.png)
+![ScreenShot](https://github.com/andrempinho/A-Three-Tier-Application-on-the-Cloud/tree/master/Imagem/Um.png)
 
 
 ### Screenshot
