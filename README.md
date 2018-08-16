@@ -2,7 +2,7 @@
 
 
 ### Visão geral
-![alt tag](https://github.com/andrempinho/A-Three-Tier-Application-on-the-Cloud/blob/master/Imagem/Overview.png=250x250)
+![alt tag](https://github.com/andrempinho/A-Three-Tier-Application-on-the-Cloud/blob/master/Imagem/Overview.png)
 
 
 ### Screenshot
