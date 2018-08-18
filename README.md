@@ -12,9 +12,9 @@
 ### Tecnologias
 * Python
 * SQLAlchemy
-* Flask
 * Open API
 * HTML
+* JavaScript
 * React.js
 * jQuery
 * Bootbox.js
