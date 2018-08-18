@@ -16,6 +16,8 @@
 * Open API
 * HTML
 * React.js
+* jQuery
+* Bootbox.js
 * MySQL
 * Cloud Amazon AWS
 
