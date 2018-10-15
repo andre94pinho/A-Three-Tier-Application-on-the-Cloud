@@ -14,12 +14,13 @@
 * SQLAlchemy
 * Open API
 * HTML
+* Bootstrap
 * JavaScript
 * React.js
 * jQuery
 * Bootbox.js
 * MySQL
-* Cloud Amazon AWS
+* Amazon Web Services Elastic Beanstalk
 
 
 ### Relatório
