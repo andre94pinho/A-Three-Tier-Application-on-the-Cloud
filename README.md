@@ -20,7 +20,8 @@
 * jQuery
 * Bootbox.js
 * MySQL
-* Amazon Web Services Elastic Beanstalk
+* AWS Elastic Beanstalk
+* Amazon S3
 
 
 ### Relatório
